@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url(https://wallpapers.com/images/hd/4k-minimalist-mountains-9oitratl6gd996za.jpg);
+  height: 100vh;
+  width: 100%;
+  color: white;
 }
 
 .App-logo {
